@@ -1,0 +1,6 @@
+{
+  "name": "Humsafar AI — Shared Cab Matchmaking",
+  "description": "AI-assisted shared mobility platform connecting airport and railway station travelers along overlapping routes with schedule-aware matchmaking, route sequence optimization, transparent fare splitting, and safety verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
